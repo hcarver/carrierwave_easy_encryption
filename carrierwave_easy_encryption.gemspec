@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["h@londonstartuptech.com"]
   spec.description   = %q{The easiest way to encrypt your carrierwave files}
   spec.summary       = %q{Encrypt all of your carrierwave files with the minimum of effort and the minimum of configuration}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/hcarver/carrierwave_easy_encryption"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split("\n")
